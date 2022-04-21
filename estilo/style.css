@@ -1,0 +1,16 @@
+#menu li > a{
+    font-size: 18px;
+    font-weight: bold;
+    color: #3f3f3f;
+}
+.carousel-inner{
+    max-height: 39rem;
+}
+
+@media (max-width:768px){
+    #intro{
+        width: 90% !important;
+    }
+}
+
+    
